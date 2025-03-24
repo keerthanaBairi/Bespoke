@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(90, 38, 63);
+    .red{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 65px;
+        font-weight: bold;
+        text-align: center;
+        color: rgb(255, 255, 255); 
+        padding-top: 15px;
+        padding-bottom: 15PX;
+    }
+    }
+    .blue{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 25px;
+        text-align: left;
+        color: rgb(255, 254, 254);
+    }
+    .yellow{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 25px;
+        text-align: left;
+        color: rgb(255, 255, 255);
+    }
+    .brown{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 25px;
+        text-align: left;
+        color: rgb(255, 244, 244);
+    }
+    div img{
+        height: 300px;
+        width: 600px;
+        border-image: round;
+        border-radius: 20px;
+    }

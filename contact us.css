@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(184, 175, 175);
+     font-size: 30px;
+     font-family: Arial, Helvetica, sans-serif;
+    } 
+    .baner{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 55px;
+        color: white;
+    }
+ div img {
+     width: 400px;
+     height: 300px;
+     border: 2px solid whitesmoke;
+     border-radius: 13px;
+     box-shadow: 4px 7px 7px 0px #110d0d42;
+     cursor: pointer;
+     margin: 10px;
+     transition: 400ms;
+ }
+ div img:hover{
+     filter: grayscale(1);
+     transform: scale(1.03);
+     }
